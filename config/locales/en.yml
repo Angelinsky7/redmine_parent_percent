@@ -1,0 +1,3 @@
+# English strings go here for Rails i18n
+en:
+  :redmine_parent_percent_calc_done_on_total: "Calculated from subtasks (done/total)"
