@@ -16,6 +16,6 @@ A plugin for redmine to calculate the percentage of the parent based on the numb
 
 --------------------------------------------------------------------------------
 
-h2. Authors:
+# Authors:
 
 * Angelinsky7 [https://github.com/Angelinsky7]
